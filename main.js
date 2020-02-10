@@ -6,7 +6,7 @@ var counterHours = document.getElementById('hours');
 var counterMinutes = document.getElementById('minutes');
 var counterSeconds = document.getElementById('seconds');
 //finds Holi
-var Holi = new Date('February 21, 2020 00:00:00');
+var Holi = new Date('March 10, 2020 00:00:00');
 
 //Updates Timer
 function updateTimer(Holi) {
