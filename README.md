@@ -1,7 +1,7 @@
-# shivratri-countdown
-Javascript MahaShivRatri CountDown using Html, CSS and Javascript
+# Holi-countdown
+Javascript Holi CountDown using Html, CSS and Javascript
 
 Download OR Clone the reposity
 
 and then open the index.html 
-You will see awesome Mahashiv Ratri Music and count down
+You will see awesome Holi count down
